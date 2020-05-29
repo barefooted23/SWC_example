@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#ignore csv
+.csv
+
+#ignore r project files
+.rproj
