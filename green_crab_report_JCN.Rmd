@@ -105,7 +105,7 @@ txt_geom <- NS %>%
 
 crabs <- occurrence(scientificname = "Carcinus maenas",
                     geometry = txt_geom)
-glimpse(crabs)
+#glimpse(crabs)
 class(crabs)
 class(NS)
 ```
