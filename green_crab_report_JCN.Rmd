@@ -125,3 +125,5 @@ ggplot(crabssf)+
   geom_sf(data=NS, fill="burlywood", colour="burlywood", alpha=0.7) +
   geom_sf()
 ```
+
+Hosted at https://barefooted23.github.io/SWC_example/green_crab_report_JCN.html
